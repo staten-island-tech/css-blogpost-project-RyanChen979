@@ -1,6 +1,6 @@
 body {
   background-color: darkseagreen;
-  color: darkcyan;
+  color: slateblue;
   text-align: center;
 }
 
@@ -11,47 +11,34 @@ h1 {
   font-size: 50px;
 }
 
-.anime {
-  margin-top: 25px;
-  margin-bottom: 0px;
-
-  border: 10px;
-
-  padding: 0px 350px;
-  background-color: bisque;
-}
-
-.idk {
-  margin-top: 25px;
-  margin-bottom: 25px;
-  text-align: center;
-}
-
-.nothing {
-  margin-top: 25px;
-  margin-bottom: 25px;
-  text-align: center;
-}
-
 h3 {
-  font-family: "Roboto Mono", monospace;
   font-size: 32px;
+  font-family: "Playfair Display", serif;
+
+  margin: 30px 207px 0px 207px;
+  background-color: bisque;
+  padding: 15px 0px 20px 0px;
 }
 
 p {
-  border: 10px;
   background-color: bisque;
-  padding: 50px 50px;
-  margin: 0px;
-  border-width: 300px;
-  size: 500;
-}
+  padding: 25px 50px 10px 50px;
+  margin: 0px 207px 0px 206px;
 
-img {
-  background-color: bisque;
+  font-family: "Roboto Mono", monospace;
+  font-size: medium;
 }
 
 .first {
   padding: 10px 350px;
   background-color: bisque;
+  width: 35vw;
+  height: 42vh;
+  text-align: center;
+}
+
+.fandom {
+  background-color: bisque;
+  margin: 0px 200px 100px 200px;
+  padding: 10px 579px;
 }
