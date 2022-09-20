@@ -8,6 +8,7 @@ h1 {
   font-family: "Playfair Display", serif;
   font-size: 40px;
   margin-bottom: 50px;
+  margin-top: 90px;
 }
 
 h3 {
@@ -31,7 +32,7 @@ p {
 }
 
 .first {
-  height: 400px;
+  width: 600px;
   margin-bottom: 25px;
 }
 
@@ -43,4 +44,33 @@ p {
 
 #opm {
   margin-top: 10px;
+}
+
+.everything {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+
+.one {
+  display: flex;
+  flex-flow: column;
+  border: 2px solid black;
+}
+
+.two {
+  display: flex;
+  flex-flow: column;
+  border: 2px solid black;
+}
+
+.three {
+  display: flex;
+  flex-flow: column;
+  border: 2px solid black;
+}
+
+#context {
+  margin: 0px;
+  padding: 0px;
 }
