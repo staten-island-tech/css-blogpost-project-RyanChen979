@@ -21,6 +21,14 @@ p {
   font-family: "Roboto Mono", monospace;
 }
 
+.section {
+  border: 2px white solid;
+  padding: 0px;
+  margin: 0px 200px 70px 200px;
+  border-radius: 25px;
+  background-color: tan;
+}
+
 .opmimg {
   height: 450px;
 }
@@ -37,23 +45,21 @@ p {
   font-size: 20px;
   margin: 15px 150px 5px 150px;
   padding: 20px;
-  border: 3px solid green;
-  background-color: white;
-  color: blue;
+  color: red;
 }
 
 #first {
-  color: blue;
+  color: red;
 }
 
 #second {
   margin-top: 50px;
-  color: blue;
+  color: red;
 }
 
 #third {
   margin-top: 50px;
-  color: blue;
+  color: red;
 }
 
 .link {
